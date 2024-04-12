@@ -199,7 +199,8 @@
                 "GetTransformationPlan",
                 "UploadZip",
                 "CreateUploadUrl",
-                "ExportResultArchive"
+                "ExportResultArchive",
+                "ResumeTransformation"
             ]
         },
         {
